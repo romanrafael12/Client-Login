@@ -1,0 +1,17 @@
+C:\Users\RAC\source\repos\Client Login\bin\Debug\Client Login.exe.config
+C:\Users\RAC\source\repos\Client Login\bin\Debug\Client Login.exe
+C:\Users\RAC\source\repos\Client Login\bin\Debug\Client Login.pdb
+C:\Users\RAC\source\repos\Client Login\bin\Debug\Dapper.dll
+C:\Users\RAC\source\repos\Client Login\bin\Debug\Dapper.xml
+C:\Users\RAC\source\repos\Client Login\obj\Debug\Client_Login.Register.resources
+C:\Users\RAC\source\repos\Client Login\obj\Debug\Client_Login.Form1.resources
+C:\Users\RAC\source\repos\Client Login\obj\Debug\Client_Login.Dashboard.resources
+C:\Users\RAC\source\repos\Client Login\obj\Debug\Client_Login.Properties.Resources.resources
+C:\Users\RAC\source\repos\Client Login\obj\Debug\Client Login.csproj.GenerateResource.cache
+C:\Users\RAC\source\repos\Client Login\obj\Debug\Client Login.csproj.CoreCompileInputs.cache
+C:\Users\RAC\source\repos\Client Login\obj\Debug\Client Login.csproj.CopyComplete
+C:\Users\RAC\source\repos\Client Login\obj\Debug\Client Login.exe
+C:\Users\RAC\source\repos\Client Login\obj\Debug\Client Login.pdb
+C:\Users\RAC\source\repos\Client Login\bin\Debug\LoginDB.mdf
+C:\Users\RAC\source\repos\Client Login\bin\Debug\LoginDB_log.ldf
+C:\Users\RAC\source\repos\Client Login\obj\Debug\Client Login.csprojAssemblyReference.cache
